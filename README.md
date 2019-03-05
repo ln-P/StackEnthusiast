@@ -1,3 +1,3 @@
 #StackEnthusiast
 
-Script that will allow me to earn Enthusiast badge on StackOverflow
+Script that will allow me to **finally** ''earn'' Enthusiast badge on StackOverflow
